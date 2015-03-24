@@ -1,6 +1,7 @@
-package au.fujitsu.java101;
+package au.com.fujitsu.java101.basics;
 
 import java.util.Date;
+
 
 public class PersonExample {
 	public static void main(String[] args) {

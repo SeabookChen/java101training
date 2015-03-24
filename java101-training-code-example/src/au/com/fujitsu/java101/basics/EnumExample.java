@@ -1,4 +1,4 @@
-package au.fujitsu.java101;
+package au.com.fujitsu.java101.basics;
 
 public class EnumExample {
 	public static void main(String[] args) {

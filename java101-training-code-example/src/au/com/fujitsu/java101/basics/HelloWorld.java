@@ -1,4 +1,5 @@
-package au.fujitsu.java101;
+package au.com.fujitsu.java101.basics;
+
 
 public class HelloWorld {
 	private String name = "Neal";
@@ -21,6 +22,3 @@ public class HelloWorld {
 		helloWorld.sayHello();
 	}
 }
-
-
-
