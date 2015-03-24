@@ -61,5 +61,12 @@
     }
   ```
 
+## Exceptions
+  - Runtime Exceptions
+  - Exceptions
+  - try ~ catch ~ finally cause
+  - [Unchecked Exceptions — The Controversy](https://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html)
+
+
 ## Extended Reading
   - [Simple Java Tutorial](http://www.tutorialspoint.com/java/java_tutorial.pdf)
