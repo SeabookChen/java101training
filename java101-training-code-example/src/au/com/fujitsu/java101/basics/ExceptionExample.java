@@ -6,11 +6,6 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class ExceptionExample {
-
-}
-
-class Utility {
-	
 	/**
 	 * An example of Checked Exception
 	 * @param filename
@@ -50,7 +45,13 @@ class Utility {
 	 * @param a
 	 * @param b
 	 */
-	public double subdivide(float a, float b) {
-		return a / b;
+	public int[] arrayOutOfBound(int size) {
+		int[] numbers = new int[size];
+		numbers[0] = 1;
+		numbers[1] = 2;
+		numbers[3] = 3;
+		numbers[4] = 4;
+		
+		return numbers;
 	}
 }
