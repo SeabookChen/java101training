@@ -1,6 +1,6 @@
 #Java Basic Syntax
 
-## First Programming HelloWorld
+## First Java Program HelloWorld
 ```
   public class HelloWorld {
     public void static main(String[] args) {
@@ -20,7 +20,8 @@
   - arguments
   - return value
 
-## conventions and pacakges
+## Conventions and pacakges
+  - some rules in java
   - naming convention
   - declare pacakges
 
@@ -66,6 +67,13 @@
   - Exceptions
   - try ~ catch ~ finally cause
   - [Unchecked Exceptions — The Controversy](https://docs.oracle.com/javase/tutorial/essential/exceptions/runtime.html)
+
+## UnitTest101
+  - Testing is important. Unit Test, Integration Test and End to End Test
+  - Junit 101
+      - junit 4
+      - annotations
+      - examples
 
 
 ## Extended Reading

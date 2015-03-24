@@ -14,6 +14,7 @@
   - Setup 1 hour
   - Java Basics 2 hours
   - Object Oriented Programming 2 hours
+  - Java Collections 2 hours
   - Common Java Libaries 2 hours
   - Practise 2 hours
 
