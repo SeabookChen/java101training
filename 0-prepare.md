@@ -4,6 +4,7 @@
   - Have a good machine (i7, 8gb ram, ssd etc)
   - JDK 7 installation (We will be using JDK7 for this course)
   - Latest Eclipse J2EE version (we will be using Eclipse, if you prefer netbeans or intellij, it's also fine)
+  - Eclipse setup (optional)
   - Git setup (optional)
   - To be add
 
