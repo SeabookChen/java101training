@@ -35,13 +35,14 @@
 
   - Table Top Look Like Below
 
-    |   | A | B | C | D | E |
     |---|---|---|---|---|---|
     | 4 |   |   |   |   |   |
     | 3 |   |   |   |   |   |
-    | 2 |   |   | <font color="red">R</font> |   |   |
+    | 2 |   |   | R |   |   |
     | 1 |   |   |   |   |   |
     | 0 |   |   |   |   |   |
+    |---|---|---|---|---|---|
+    |   | 0 | 1 | 2 | 3 | 4 |
 
 
 ## Constraints:
@@ -49,6 +50,7 @@
   - Any move that would cause the robot to fall must be ignored.
 
   - Example Input and Output:
+
     a)
     - PLACE 0,0,NORTH
     - MOVE
