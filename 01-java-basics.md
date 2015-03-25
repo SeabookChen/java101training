@@ -1,7 +1,7 @@
 #Java Basic Syntax
 
 ## First Java Program HelloWorld
-```
+```java
   public class HelloWorld {
     public void static main(String[] args) {
       System.out.println("HelloWorld");
@@ -32,11 +32,11 @@
   - none
 
 ## Comments in Java
-  ```
+  ```java
     // comment1
-  ```
-  ```
-    /* comment2
+
+    /*
+       comment2
        comment3
        comment4
      */
@@ -56,7 +56,7 @@
 ##
 
 ## Enums
-  ```
+  ```java
     public Enum Color {
       BLUE, RED, PINK
     }

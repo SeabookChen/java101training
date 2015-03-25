@@ -9,21 +9,20 @@
   - [List Class Diagram](http://static.karambelkar.info/static/java_collections/Java-Collections_API-List-ImageMap.html)
   - An ordered collection (also known as a sequence)
   - Allow duplicate elements
-
-### ArrayList
-  - The most common used one of collections in Java
-  - Similar to Array, but more advanced feature
-  - auto increase the capacity
-  - etc
+  - **ArrayList**
+    - The most common used one of collections in Java
+    - Similar to Array, but more advanced feature
+    - auto increase the capacity
+    - etc
 
 
 ## Set
   - [Set Class Diagram](http://static.karambelkar.info/static/java_collections/Java-Collections_API-Set-ImageMap.html)
   - Not Sequence guranteed
   - A collection that contains no duplicate elements
-### HashSet
-  - use hash algorithm to determine where the elements to be hold
-  - hashcode and equals
+  - **HashSet**
+    - use hash algorithm to determine where the elements to be hold
+    - hashcode and equals
 
 
 ## Map

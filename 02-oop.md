@@ -10,7 +10,7 @@
   - Usually use an adapter between Interface and Concrete Class to have some Common Interactions
 
 ## Inheritance - IS-A Relationship
-  ```
+  ```java
     public class Animal{}
     public class Mammal extends Animal{}
     public class Reptile extends Animal{}
@@ -18,7 +18,7 @@
   ```
 
 ## Composition - HAS-A Relationship
-  ```
+  ```java
     public class Car {
       private Engine engine;
     }
