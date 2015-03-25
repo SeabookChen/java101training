@@ -74,6 +74,10 @@
       - junit 4
       - annotations
       - examples
+      - [Junit Extended Reading](http://www.tutorialspoint.com/junit/index.htm)
+
+## How to use Java Doc
+  - [JDK 7 Doc](http://docs.oracle.com/javase/7/docs/api/java/util/Set.html)
 
 
 ## Extended Reading
