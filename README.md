@@ -12,11 +12,11 @@
 
 ## Agenda
   - Setup 1 hour
-  - Java Basics 2 hours
+  - Java Basics 3 hours
   - Object Oriented Programming 2 hours
-  - Java Collections 2 hours
-  - Common Java Libaries 2 hours
-  - Practise 2 hours
+  - Java Collections 3 hours
+  - Common Java Libaries 1 hours
+  - Practise 3 hours
 
 ## Outcome
   - Have a good understanding of java programming lanuage
