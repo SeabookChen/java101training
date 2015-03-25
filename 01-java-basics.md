@@ -2,11 +2,11 @@
 
 ## First Java Program HelloWorld
 ```java
-  public class HelloWorld {
-    public void static main(String[] args) {
-      System.out.println("HelloWorld");
-    }
+public class HelloWorld {
+  public void static main(String[] args) {
+    System.out.println("HelloWorld");
   }
+}
 ```
 
 ## Variables
@@ -14,6 +14,17 @@
   - local variable
   - class variable
   - arrays
+
+## Objects, Primities, Outboxing ...
+  - String, Date etc
+  - int, float, double, boolean, long ...
+  - int == Integer, float == Float etc ...
+  ```java
+
+  Integer i = new Integer(10);
+  Integer i1 = 10;
+
+  ```
 
 ## Methods
   - name
@@ -33,13 +44,13 @@
 
 ## Comments in Java
   ```java
-    // comment1
+  // comment1
 
-    /*
-       comment2
-       comment3
-       comment4
-     */
+  /*
+     comment2
+     comment3
+     comment4
+   */
   ```
 # Constructors
   - public constructor
@@ -47,6 +58,15 @@
   - constructors with params
 
 ## if-elseif-else
+```java
+if (age < 10) {
+  // do this
+} else if (age > 10 && age < 50) {
+  // do that
+} else {
+  // do nothing
+}
+```
 
 ## Loops
   - for loop
@@ -56,11 +76,11 @@
 ##
 
 ## Enums
-  ```java
-    public Enum Color {
-      BLUE, RED, PINK
-    }
-  ```
+```java
+public Enum Color {
+  BLUE, RED, PINK
+}
+```
 
 ## Exceptions
   - Runtime Exceptions

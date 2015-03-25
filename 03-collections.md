@@ -15,6 +15,12 @@
     - auto increase the capacity
     - etc
 
+## Generics
+  - How to use generics
+  ```java
+  List<String> strings = new ArrayList<String>();
+  List<Car> cars = new ArrayList<Car>();
+  ```
 
 ## Set
   - [Set Class Diagram](http://static.karambelkar.info/static/java_collections/Java-Collections_API-Set-ImageMap.html)
@@ -46,6 +52,25 @@
 ## Comparation
   - How to sort a collection
   - Comparator and comparable
+
+
+## Tips, tricks, continue reading
+  - Quickly create a list with values;
+  ```java
+
+    // This is slow
+    List<String> names = new ArrayList<>();
+    names.add("seabook");
+    names.add("Wann");
+    names.add("Rach");
+
+    // This is good
+    List<String> names = Arrays.asList("Seabook", "wann", "Rach");
+  ```
+  - Collections
+  - CollectionUtils
+  - [google collections guava](https://github.com/google/guava)
+  - Others
 
 
 [collection-class-diagram]: http://static.karambelkar.info/static/java_collections/Java-Collections_API-Collection.png
