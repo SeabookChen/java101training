@@ -15,7 +15,7 @@ public class HelloWorld {
   - class variable
   - arrays
 
-## Objects, Primities, Outboxing ...
+## Objects, Primities, Autoboxing ...
   - String, Date etc
   - int, float, double, boolean, long ...
   - int == Integer, float == Float etc ...
@@ -54,7 +54,7 @@ public class HelloWorld {
   ```
 # Constructors
   - public constructor
-  - pricate constructor
+  - private constructor
   - constructors with params
 
 ## if-elseif-else
